@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Aiko!
+# 👋 Hi, I'm Aiko!
 
 🎀 Student exploring coding<br>
 🧸 Studying Computer science<br>
