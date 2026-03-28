@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://wallhaven.cc/w/wyg2gq" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -15,9 +15,6 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=aeihrt&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="aeihrt's GitHub Streak" width="49%" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
 
 
 ## 🛠️ Languages & Tools
@@ -32,7 +29,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /></p>
 
 > ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
 
 > ## DevOps & Cloud
 <p align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /></p>
@@ -47,7 +44,7 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="left"> <a href="mailto:aikohearteagapay@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Aiko Heart's Email"/></a></p>
+<p align="center"> <a href="mailto:aikohearteagapay@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 ## 💬 Quote
 > “There's only one truth”
