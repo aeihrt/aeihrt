@@ -8,7 +8,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## 📊 GitHub Stats & Trophies
+<img src="detective_conan_gif_2_by_buhbiel_d3hxcjt.gif" alt="Banner" width="100%"/>
+
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/aeihrt">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aeihrt&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="aeihrt's GitHub Stats" />
