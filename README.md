@@ -53,6 +53,7 @@
 <img height="250em" src="gif/detective-conan-ran-mouri.gif" alt="Banner" width="49%"/>
 <img height="250em" src="gif/detective-conan-conan-edogawa.gif" alt="Banner" width="49%"/>
 <img height="250em" src="gif/detective-conan-conan.gif" alt="Banner" width="49%"/>
+<img height="250em" src="gif/detective-conan-shinichi-kudo.gif" alt="Banner" width="49%"/>
 </p>
 
 <p align="center">
