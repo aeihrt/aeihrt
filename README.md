@@ -48,11 +48,11 @@
 <p align="center"> <a href="mailto:aikohearteagapay@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 ## 💬 Quote
-<p align="center">
 > “There's only one truth”
-<img height="220em" src="gif/detective-conan-ran-mouri.gif" alt="Banner" width="49%"/>
-<img height="220em" src="gif/detective-conan-conan-edogawa.gif" alt="Banner" width="49%"/>
-<img height="220em" src="gif/detective-conan-conan.gif" alt="Banner" width="49%"/>
+<p align="center">
+<img height="250em" src="gif/detective-conan-ran-mouri.gif" alt="Banner" width="49%"/>
+<img height="250em" src="gif/detective-conan-conan-edogawa.gif" alt="Banner" width="49%"/>
+<img height="250em" src="gif/detective-conan-conan.gif" alt="Banner" width="49%"/>
 </p>
 
 <p align="center">
