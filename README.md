@@ -8,7 +8,7 @@
 
 <img src="gif/kaito-kid.gif" alt="Banner" width="100%"/>
 
-## 📊 GitHub Stats
+## 🎩 GitHub Stats
 <p align="center">
   <a href="https://github.com/aeihrt">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aeihrt&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="aeihrt's GitHub Stats" />
@@ -16,8 +16,9 @@
   <img src="https://streak-stats.demolab.com/?user=aeihrt&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="aeihrt's GitHub Streak" width="49%" />
 </p>
 
+<img src="gif/kaito-kuroba-kaito-kid.gif" alt="Banner" width="100%"/>
 
-## 🛠️ Languages & Tools
+## ✨ Languages & Tools
 
 > ## Programming Languages
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
@@ -48,6 +49,7 @@
 
 ## 💬 Quote
 > “There's only one truth”
+<img src="gif/detective-conan-ran-mouri.gif" alt="Banner" width="100%"/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
@@ -56,3 +58,5 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
+
+<img src="gif/detective-conan-conan-edogawa.gif" alt="Banner" width="100%"/>
