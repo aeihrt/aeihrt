@@ -49,9 +49,9 @@
 
 ## 💬 Quote
 > “There's only one truth”
-<img height="180em" src="gif/detective-conan-ran-mouri.gif" alt="Banner" width="100%"/>
-<img height="180em" src="gif/detective-conan-conan-edogawa.gif" alt="Banner" width="100%"/>
-<img height="180em" src="gif/detective-conan-conan-conan.gif" alt="Banner" width="100%"/>
+<img height="180em" src="gif/detective-conan-ran-mouri.gif" alt="Banner" width="49%"/>
+<img height="180em" src="gif/detective-conan-conan-edogawa.gif" alt="Banner" width="49%"/>
+<img height="180em" src="gif/detective-conan-conan.gif" alt="Banner" width="49%"/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
