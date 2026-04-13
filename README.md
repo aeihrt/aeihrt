@@ -9,4 +9,4 @@
 <img height="250em" src="gif/detective-conan-shinichi-kudo.gif" alt="Banner" width="49%"/>
 </p>
 
-<img src="gif/kaito-kuroba-kait-kid.gif" alt="Banner" width="100%"/>
+<img src="gif/kaito-kuroba-kaito-kid.gif" alt="Banner" width="100%"/>
