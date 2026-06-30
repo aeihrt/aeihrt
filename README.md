@@ -1,7 +1,6 @@
-<img src="gif/gif1.gif" alt="Banner" width="100%"/>
-
 <p align="center">
-<img height="100%" src="gif/cover.png" alt="Banner" width="100%"/>
+  <img src="R-Eyecatch-1.gif"/><br/>
+  <img src="Sailor_Moon_to_NQS_2.gif"/><br/>
+  <img src="Sailor_Teleport.gif"/><br/>
+  <img src="Usagi_Endless_Crying.gif"/>
 </p>
-
-<img src="gif/gif2.gif" alt="Banner" width="100%"/>
